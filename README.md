@@ -1,151 +1,172 @@
-# Hi 👋, I'm Cesar G
-### Full-Stack Developer · Backend & Data Architecture Specialist · Founder @ SNUPDRACK Technologies
+# 👋 Hi, I'm Julio César Ríos García
+
+### Founder & Lead Engineer @ SynkData Technologies
+
+Building SaaS platforms, KYC systems, identity intelligence solutions, automation software and data-driven products.
 
 <p align="left">
+  <a href="https://synkdata.online" target="_blank">
+    <img src="https://img.shields.io/badge/SynkData-Technologies-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
   <a href="https://ceo.synkdata.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-synkdata.online-0ff?style=for-the-badge&logo=googlechrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="mailto:snupdrack1@outlook.com">
-    <img src="https://img.shields.io/badge/Email-snupdrack1%40outlook.com-0ff?style=for-the-badge&logo=microsoftoutlook&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-00E5FF?style=for-the-badge&logo=microsoftoutlook&logoColor=black" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Snupdrack&label=Profile%20views&color=00ffff&style=for-the-badge" alt="Snupdrack" />
+  <a href="https://www.linkedin.com/in/jcesar-rgarcia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nodejs,nextjs,vue,express,nestjs" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,azure,gcp,aws,heroku,nginx,linux,git,mongodb,postgres" /><br/>
-  <img src="https://skillicons.dev/icons?i=selenium,redis,graphql,tailwind,bootstrap,firebase,kafka,kubernetes,jenkins,grafana" /><br/>
-  <img src="https://skillicons.dev/icons?i=cs,java,php,go,ruby,django,flask,laravel,spring,electron" />
-</p>
-
----
-
-## 🧠 About Me
+## 🚀 About Me
 
 ```python
 developer = {
-    "name"      : "Cesar G.",
-    "alias"     : "Snupdrack",
-    "company"   : "SNUPDRACK Technologies",
-    "location"  : "México 🇲🇽",
-    "role"      : ["Full-Stack Dev", "API Architect", "SaaS Builder", "IT/Telecom Engineer"],
-    "stack"     : ["Python", "FastAPI", "React", "Node.js", "Docker", "Azure", "MongoDB"],
-    "interests" : ["AI Agents", "OSINT", "Web Scraping", "KYC/Compliance", "Automation"],
-    "flow_state": "03:00 AM + Techno 🎧",
+    "name": "Julio César Ríos García",
+    "alias": "Snupdrack",
+    "company": "SynkData Technologies",
+    "location": "México 🇲🇽",
+
+    "role": [
+        "Founder",
+        "Lead Engineer",
+        "Backend Architect",
+        "SaaS Builder"
+    ],
+
+    "specialization": [
+        "KYC & Compliance",
+        "Identity Intelligence",
+        "Data Enrichment",
+        "OSINT",
+        "Automation",
+        "AI Agents"
+    ],
+
+    "current_focus": "Scaling SynkData Technologies",
+
+    "stack": [
+        "Python",
+        "FastAPI",
+        "React",
+        "Next.js",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB"
+    ]
 }
 ```
 
-- 🔭 Actualmente escalando **[SynkData](https://synkdata.online)** — plataforma SaaS para enriquecimiento de datos y sistemas KYC
-- 🌱 Aprendiendo: optimización de despliegues cloud y seguridad ofensiva / pentesting
-- 👯 Buscando colaborar en proyectos de automatización, OSINT, web scraping y agentes de IA
-- 💬 Pregúntame sobre **Python, FastAPI, Web Scraping, Bots de Telegram y arquitecturas de microservicios**
-- ⚡ Fun fact: *mis mejores líneas de código nacen a las 3:00 AM, donde solo existimos el Techno y yo*
-- 📄 CV: [Ver experiencia](https://drive.google.com/file/d/117K9hl8GOLN5OgapIYKBXjOF8ceGgQbm/view?usp=drive_link)
+* 🚀 Founder of **SynkData Technologies**
+* 🧠 Specialized in Backend Engineering, Data Automation and Intelligence Systems
+* 🔍 Building KYC, OSINT and Identity Verification Platforms
+* ⚡ Designing scalable APIs and microservices with FastAPI
+* 🤖 Developing AI Agents and RAG-powered solutions
+* ☁️ Deploying production workloads across cloud infrastructure
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Core Technologies
 
-### 🤖 [SynkData — AI Sales Bot "Carlos Reyes"](https://synkdata.online)
-> *Agente de ventas con IA, memoria RAG y personalidad propia*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,nodejs,docker,postgres,mongodb,redis,azure,linux,git" />
+</p>
 
-Bot conversacional de ventas desplegado en **synkdata.online** con arquitectura RAG usando **ChromaDB + FastAPI + Claude Haiku (Anthropic)**. Mantiene contexto de conversación, recupera información relevante del catálogo de servicios y responde como un asesor comercial real.
+### Additional Experience
 
-`Python` `FastAPI` `ChromaDB` `Claude AI` `RAG` `Docker`
-
----
-
-### 🏦 [CONER — Plataforma de Retiros](https://app.coner.lat)
-> *Sistema full-stack para gestión de consultoría de retiros*
-
-Aplicación completa en producción con **React/CRACO** en Vercel y **FastAPI + MongoDB** en Railway. Incluye autenticación JWT, integraciones con **Nubarium y Nufi APIs** para consultas IMSS/CURP/SAT/RENAPO, y un proxy de API dinámico configurable desde el panel de administración.
-
-`React` `FastAPI` `MongoDB` `JWT` `Vercel` `Railway` `Nubarium API` `Nufi API`
+FastAPI • Selenium • Socket.io • Prisma • Railway • Nginx • GraphQL • Firebase • Docker Compose • Mercado Pago • Stripe • ChromaDB • LangChain • Claude API • Web Scraping • OSINT
 
 ---
 
-### 🔍 KYC Platform — Enriquecimiento de Datos
-> *Pipeline modular de verificación de identidad*
+## 📈 Highlights
 
-Plataforma Python/FastAPI con módulos independientes para: validación de **CURP**, consulta de listas de **sanciones**, enriquecimiento por redes sociales, y generación de **reportes PDF** automatizados. Arquitectura orientada a servicios con endpoints REST documentados en Swagger.
-
-`Python` `FastAPI` `PDF Generation` `CURP API` `Sanctions Check` `Docker`
-
----
-
-### 🤖 Yoda Bot — Automatización de Trámites Gubernamentales
-> *Bot de Telegram para generación de documentos oficiales mexicanos*
-
-Bot con arquitectura híbrida **Selenium + requests** para automatizar la generación de documentos del gobierno mexicano desde Telegram. Maneja flujos de navegación real en portales web, sesiones autenticadas y entrega los documentos directamente al usuario en el chat.
-
-`Python` `Telegram Bot API` `Selenium` `requests` `Process Automation`
+* 🚀 Founder & Lead Engineer at SynkData Technologies
+* 🏢 Built multiple production SaaS platforms
+* 🔍 Developed KYC and Compliance systems
+* 🛡️ Designed Identity Intelligence solutions
+* ⚡ Created high-performance FastAPI architectures
+* 🤖 Built AI Agents with Retrieval-Augmented Generation (RAG)
+* 🌐 Integrated government, financial and enterprise services
+* 📊 Specialized in data enrichment and automation workflows
 
 ---
 
-### 👨‍💼 GestorRH — Sistema Interno de Trámites RRHH
-> *Herramienta single-page para gestión de trámites de recursos humanos*
+# 🚀 Featured Projects
 
-Aplicación monolítica en un solo archivo HTML con **Firebase** como backend. Permite a equipos de RRHH gestionar solicitudes, estados de trámites y notificaciones sin infraestructura compleja. Rápido de desplegar, cero dependencias externas de servidor.
+## 🛡️ IMSS-Intel Lab
 
-`HTML` `JavaScript` `Firebase` `Firestore` `Single-Page App`
+Identity orchestration platform designed to automate interactions with Mexican government services and transform complex workflows into structured APIs.
 
----
-
-### 🧾 Receipt Generator — Thermal 80mm
-> *Generador profesional de tickets en formato térmico*
-
-Herramienta web para generar recibos/tickets en formato de **impresora térmica 80mm**, exportables a PDF. Diseñada para integrarse en flujos de punto de venta o sistemas de facturación ligeros.
-
-`HTML` `CSS` `JavaScript` `Print API` `PDF Export`
+**Tech:** FastAPI • Selenium • HTTPX • Pydantic • Docker
 
 ---
 
-### 🏛️ SAT CIF Portal — Réplica de Consulta Fiscal
-> *Interfaz web espejo del portal de consulta de CIF del SAT*
+## 🔍 KYC Platform
 
-Réplica funcional en **Flask** del portal de consulta de Cédula de Identificación Fiscal (CIF) del SAT mexicano. Útil para integración y pruebas de flujos de verificación fiscal sin depender de la disponibilidad del portal oficial.
+Compliance and risk intelligence platform featuring sanctions screening, identity validation, relationship analysis and automated reporting.
 
-`Python` `Flask` `Web Scraping` `SAT México`
+**Tech:** FastAPI • PostgreSQL • Redis • Neo4j • Docker
+
+---
+
+## 🏢 SynkData
+
+Multi-tenant SaaS ecosystem focused on data enrichment, compliance workflows, automation and business intelligence.
+
+**Tech:** Next.js • FastAPI • PostgreSQL • Docker • Azure
+
+---
+
+## 🏦 CONER
+
+Production platform for retirement consulting and identity validation workflows integrating multiple external services.
+
+**Tech:** React • FastAPI • MongoDB • JWT • Railway
+
+---
+
+## 🍕 Nito's Pizza
+
+Restaurant management platform with POS, reservations, payment processing and real-time operations.
+
+**Tech:** Next.js • Prisma • PostgreSQL • Socket.io • Mercado Pago
+
+---
+
+## 🚕 TaxiMitla
+
+Mobility platform for transportation management with geolocation, driver assignment and real-time communication.
+
+**Tech:** React • FastAPI • MongoDB • WebSockets
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Snupdrack&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JCesarGR&show_icons=true&theme=tokyonight" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Snupdrack&show_icons=true&locale=en&theme=radical" alt="Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snupdrack&theme=radical" alt="Streak" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCesarGR&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌎 Connect
 
-<p align="left">
-  <a href="https://github.com/Snupdrack" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/jcesar-rgarcia" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61581662625011" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/garc1a_jc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+* 🌐 Website: https://synkdata.online
+* 👨‍💼 Portfolio: https://ceo.synkdata.online
+* 💼 LinkedIn: https://www.linkedin.com/in/jcesar-rgarcia
+* 📧 Email: [snupdrack1@outlook.com](mailto:snupdrack1@outlook.com)
 
 ---
 
 <p align="center">
-  <i>Built at 3:00 AM somewhere in México 🇲🇽 · SNUPDRACK Technologies © 2025</i>
+  <i>Building systems that transform data into decisions.</i>
+  <br/>
+  <b>SynkData Technologies © 2025</b>
 </p>
